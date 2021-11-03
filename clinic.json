@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/V3k3Mdm/a.png",
+    "name": "Neurology",
+    "description": "Neurologists diagnose, treat and manage disorders that affect the central nervous system (the brain and spinal cord) and the peripheral nervous system (nerves and muscles which activate movement and transmit sensation from all parts of the body to the brain).",
+    "symptoms": {
+      "a": "Tripping",
+      "b": "Dropping things",
+      "c": "Slurred or “thick” speech",
+      "d": "Difficulty swallowing",
+      "e": "Weight loss",
+      "f": "Decreased muscle tone"
+    }
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/5FcCtb6/b.png",
+    "name": "Traumatology",
+    "description": "In medicine, traumatology (from Greek trauma, meaning injury or wound) is the study of wounds and injuries caused by accidents or violence to a person, and the surgical therapy and repair of the damage. Traumatology is a branch of medicine. It is often considered a subset of surgery and in countries without the specialty of trauma surgery it is most often a sub-specialty to orthopedic surgery. Traumatology may also be known as accident surgery.",
+    "symptoms": {
+      "a": "denial",
+      "b": "anger",
+      "c": "fear",
+      "d": "sadness",
+      "e": "shame",
+      "f": "confusion"
+    }
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/TKsYGZj/c.png",
+    "name": "Nephrology",
+    "description": "Nephrology is a subspecialty of internal medicine. Practitioners diagnose and treat diseases of the kidneys and urinary system. Nephrologists are motivated by the opportunity to restore chronically ill patients to productive lives and are often challenged by life-and-death situations.",
+    "symptoms": {
+      "a": "Nausea",
+      "b": "Vomiting",
+      "c": "Loss of appetite",
+      "d": "Fatigue and weakness",
+      "e": "Changes in how much you urinate",
+      "f": "Chest pain, if fluid builds up around the lining of the heart"
+    }
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/ZL8MbTX/d.png",
+    "name": "Cardiology",
+    "description": "Cardiology is a specialty of internal medicine. To be a cardiologist in the United States, a three year residency in internal medicine is followed by a three year residency in cardiology. It is possible to specialize further in a sub-specialty.",
+    "symptoms": {
+      "a": "Chest pain or discomfort (angina)",
+      "b": "Weakness ",
+      "c": "light-headedness",
+      "d": "nausea (feeling sick to your stomach), or a cold sweat",
+      "e": "Pain or discomfort in the arms or shoulder",
+      "f": "Shortness of breath"
+    }
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/m9GGdY6/e.png",
+    "name": "Pulmonary",
+    "description": "The word pulmonary means pertaining to the lungs. It is derived from the Latin root word pulmo, which means lung. If someone has pulmonary disease, this means they have a lung disease, and that may affect their ability to breathe well.",
+    "symptoms": {
+      "a": "Shortness of breath (dyspnea), initially while exercising and eventually while at rest",
+      "b": "Fatigue",
+      "c": "Dizziness or fainting spells (syncope)",
+      "d": "Chest pressure or pain",
+      "e": "Swelling (edema) in the ankles, legs and eventually the abdomen (ascites)",
+      "f": "Bluish color to the lips and skin (cyanosis)"
+    }
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/56pPmn4/f.png",
+    "name": "Pediatric",
+    "description": "The Pediatric Symptom Checklist (PSC) is a brief questionnaire that helps identify and assess changes in emotional and behavioral problems in children. The PSC covers a broad range of emotional and behavioral problems and is meant to provide an assessment of psychosocial functioning.",
+    "symptoms": {
+      "a": "Cold",
+      "b": "Conjunctivitis",
+      "c": "Ear infections",
+      "d": "Hand Foot and Mouth disease",
+      "e": "Gastro",
+      "f": "Fever"
+    }
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/mNKjpFT/g.png",
+    "name": "Dental",
+    "description": "Periodontitis is common but largely preventable. It's usually the result of poor oral hygiene. Brushing at least twice a day, flossing daily and getting regular dental checkups can greatly improve your chances of successful treatment for periodontitis and can also reduce your chance of developing it.",
+    "symptoms": {
+      "a": "Swollen or puffy gums",
+      "b": "Bright red, dusky red or purplish gums",
+      "c": "Gums that feel tender when touched",
+      "d": "Gums that bleed easily",
+      "e": "Pink-tinged toothbrush after brushing",
+      "f": "Spitting out blood when brushing or flossing your teeth"
+    }
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/0GFxKXY/h.png",
+    "name": "Pregnancy",
+    "short_description": "Neurologists diagnose, treat and manage disorders that affect the central nervous system",
+    "description": "When do pregnancy symptoms start? Very early pregnancy symptoms (like sensitivity to smell and tender breasts) may show up before you miss your period, as soon as a few days after conception, while other early signs of pregnancy (like spotting) might appear around one week after sperm meets egg.",
+    "symptoms": {
+      "a": "Frequent urination",
+      "b": "Swollen or tender breasts",
+      "c": "Fatigue",
+      "d": "Nausea, with or without vomiting",
+      "e": "Light spotting and cramping",
+      "f": "Bloating"
+    }
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/WBxJPqr/j.png",
+    "name": "Disability",
+    "short_description": "Neurologists diagnose, treat and manage disorders that affect the central nervous system",
+    "description": "A disability is any condition of the body or mind (impairment) that makes it more difficult for the person with the condition to do certain activities (activity limitation) and interact with the world around them (participation restrictions). ... Mental health. Social relationships.",
+    "symptoms": {
+      "a": "Problems reading and/or writing.",
+      "b": "Problems with math.",
+      "c": "Poor memory.",
+      "d": "Problems paying attention.",
+      "f": "Trouble following directions.",
+      "g": "Clumsiness."
+    }
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co/WcCpFXR/i.png",
+    "name": "Prosthesis",
+    "description": "In medicine, a prosthesis or prosthetic implant is an artificial device that replaces a missing body part, which may be lost through trauma, disease, or a condition present at birth. Prostheses are intended to restore the normal functions of the missing body part.",
+    "symptoms": {
+      "a": "Pain at the incision site.",
+      "b": "Redness and warmth at the incision site.",
+      "c": "Swelling of the joint or limb.",
+      "d": "Drainage from the incision site.",
+      "f": "Pain or stiffness in the joint after a period of it being pain-free.",
+      "g": "Chills or night sweats."
+    }
+  }
+]
